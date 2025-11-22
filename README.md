@@ -19,14 +19,17 @@ pip -r requirements.txt
   pydantic
   python-dotenv
   langchain[openai]
+  langchain-community
   langchain-mcp-adapters
+  langchain-text-splitters
   langgraph
   langgraph-cli[inmem]
   langgraph-supervisor
   langgraph-checkpoint-sqlite
+  langmem
   ipynbname
   fastmcp
-  supervisord
+  bs4
   ```
 </details>
 

@@ -19,20 +19,23 @@ pip -r requirements.txt
   pydantic
   python-dotenv
   langchain[openai]
+  langchain-community
   langchain-mcp-adapters
+  langchain-text-splitters
   langgraph
   langgraph-cli[inmem]
   langgraph-supervisor
   langgraph-checkpoint-sqlite
+  langmem
   ipynbname
   fastmcp
-  supervisord
+  bs4
   ```
 </details>
 
 ## 二、章节目录
 
-主教程：
+主要内容包含在以下章节中：
 
 |序号|章节|
 | -- | -- |
@@ -48,7 +51,7 @@ pip -r requirements.txt
 | 10 | [Deep Agents](../10.deep_agents.ipynb) |
 | 11 | [调试界面](../11.langgraph_cli.ipynb) |
 
-教程中未提及的一些关键代码实现：
+上面未介绍的一些关键功能实现，记录在代码中作为补充：
 
 |代码|说明|
 | -- | -- |
@@ -59,13 +62,13 @@ pip -r requirements.txt
 
 ## 三、调试界面
 
-启动 LangGraph CLI 提供的本地开发界面：
+`langgraph-cli` 提供了一个可快速启动的调试界面。
 
 ```
 langgraph dev
 ```
 
-更多介绍请参阅 [第11章](../11.langgraph_cli.ipynb)
+详见 [第11章](../11.langgraph_cli.ipynb)
 
 ## 四、参考文档
 
