@@ -22,7 +22,6 @@ jobs:
       - run: jupyter-book build --html
         env:
           BASE_URL: /dive-into-langgraph/
-      - run: rm -f _build/html/LICENSE
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html

@@ -101,16 +101,16 @@ langgraph dev
 
 详见 [第11章](./11.langgraph_cli.ipynb)
 
-## 五、参考文档
+## 五、延伸阅读
 
-**1）官方文档**
+**官方文档：**
 
 - [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
 - [Deep Agents](https://docs.langchain.com/oss/python/deepagents/overview)
 - [LangMem](https://langchain-ai.github.io/langmem/)
 
-**2）官方教程**
+**官方教程：**
 
 - [langgraph-101](https://github.com/langchain-ai/langgraph-101)
 - [langchain-academy](https://github.com/langchain-ai/langchain-academy)
@@ -123,7 +123,3 @@ langgraph dev
 - 💡 功能建议 - 有好想法就告诉我们
 - 📝 内容完善 - 帮助改进教程内容
 - 🔧 代码优化 - 提交 Pull Request
-
-## 七、开源协议
-
-本作品采用 [知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/) 进行许可。

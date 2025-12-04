@@ -101,11 +101,25 @@ langgraph dev
 
 See [Chapter 11](../11.langgraph_cli.ipynb) for details.
 
-## 5. References
+## 5. Further Reading
+
+**Official Documentation:**
 
 - [LangChain](https://docs.langchain.com/oss/python/langchain/overview)
 - [LangGraph](https://docs.langchain.com/oss/python/langgraph/overview)
 - [Deep Agents](https://docs.langchain.com/oss/python/deepagents/overview)
 - [LangMem](https://langchain-ai.github.io/langmem/)
+
+**Official Tutorials:**
+
 - [langgraph-101](https://github.com/langchain-ai/langgraph-101)
 - [langchain-academy](https://github.com/langchain-ai/langchain-academy)
+
+## 6. How to Contribute
+
+We welcome any form of contribution!
+
+- 🐛 Report bugs — please open an Issue
+- 💡 Suggest features — share your ideas
+- 📝 Improve content — help enhance the tutorial
+- 🔧 Optimize code — submit a Pull Request
