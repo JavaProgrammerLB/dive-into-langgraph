@@ -20,7 +20,8 @@ jobs:
           node-version: "20"
       - run: npx --yes mystmd build --html
         env:
-          BASE_URL: https://www.luochang.ink/dive-into-langgraph
+          BASE_URL: /dive-into-langgraph
+      - run: touch _build/html/.nojekyll
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _build/html
