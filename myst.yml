@@ -5,9 +5,6 @@ project:
   title: LangGraph 1.0 完全指南
   description: LangGraph 1.0 教程
   keywords: [ "LangGraph", "Langchain" ]
-  authors:
-    - name: 星汐引力
-      url: https://stellartide.github.io/cn/
   github: https://github.com/luochang212/dive-into-langgraph
   toc:
     - file: book/home.ipynb
