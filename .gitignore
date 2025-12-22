@@ -7,7 +7,6 @@
 .env
 
 __pycache__
-static
 archived
 
 *.log
@@ -17,3 +16,4 @@ archived
 
 # MyST build outputs
 _build
+_static
